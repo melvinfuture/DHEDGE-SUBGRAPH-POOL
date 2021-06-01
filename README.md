@@ -7,9 +7,8 @@
 At the moment, a Pool's performance (%) on dHEDGE is calculated via our internal backend API. Ideally, this data should be accessible to any developer so the protocol could be adopted in more front-ends/other systems.
 
 
-#### Git Repository: https://github.com/sekmet/dhedge-subgraph
+#### Git Repository: https://github.com/GITCOINDEVELOPER/DHEDGE-SUBGRAPH-POOL
 
-#### Updated dHEDGE Subgraph: https://thegraph.com/explorer/subgraph/sekmet/dhedge
 
 ---
 
